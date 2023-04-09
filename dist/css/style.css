@@ -1,0 +1,20 @@
+.row .col-sm-6 {
+    margin-top: 20px;
+}
+.card-header-pay {
+    height: 460px;
+}
+.card-header-new {
+    height: 400px;
+}
+.container .row p {
+    font-size: 12px;
+}
+.footer {
+    background-color: #0888FE; 
+    bottom:0; 
+    width:100%;
+}
+.col-3 p {
+    font-size: 14px;
+}
